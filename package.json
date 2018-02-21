@@ -1,0 +1,32 @@
+{
+  "name": "ng-object-mapper",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "typescript-object-mapper Angular module",
+  "keywords": [
+    "typescript-object-mapper",
+    "JSON",
+    "JSON Serialize",
+    "JSON Deserialize",
+    "JsonProperty",
+    "DTO",
+    "Data Transfer Objects",
+    "Jackson",
+    "Object mapper"
+  ],
+  "author": {
+    "name": "Alexey Savchuk",
+    "email": "sabo@devpreview.ru"
+  },
+  "homepage": "https://github.com/devpreview/ng-object-mapper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpreview/ng-object-mapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devpreview/ng-object-mapper/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+  }
+}
