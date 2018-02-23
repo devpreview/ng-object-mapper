@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "sourceMap": true
   },
   "angularCompilerOptions": {
   }
