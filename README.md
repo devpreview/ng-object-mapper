@@ -7,4 +7,4 @@
 [![peerDependencies Status](https://david-dm.org/devpreview/ng-object-mapper/peer-status.svg)](https://david-dm.org/devpreview/ng-object-mapper?type=peer)
 [![npm](https://img.shields.io/npm/dt/ng-object-mapper.svg)](https://github.com/devpreview/ng-object-mapper/releases)
 
-# Angular 2+ module for TypeScript Object Mapper
+# Angular 2+ module for [TypeScript Object Mapper](https://github.com/devpreview/ts-object-mapper)
